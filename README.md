@@ -1,4 +1,4 @@
-<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmhjazU4cXJ0bTFjNncxbjVidG5xOHBrYXdqcm9kZG5vY2hkOTZweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SwImQhtiNA7io/giphy.gif" />
+<img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmhjazU4cXJ0bTFjNncxbjVidG5xOHBrYXdqcm9kZG5vY2hkOTZweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SwImQhtiNA7io/giphy.gif" />
 <h1>Oi, você está olhando para o repositório dos projetos de uma estudante de ADS em construção 🐱‍💻👾🚀</h1> 
 <h4> Minha lista de interesses inclui:</h4>
 - Front-end
