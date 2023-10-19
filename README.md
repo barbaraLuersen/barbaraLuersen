@@ -23,7 +23,7 @@
   <img align="center" alt="" src="">
   <img align="center" alt="" src="">
 </div>
-
+<br><br>
 <div class="dadosDoGit">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaraLuersen&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
