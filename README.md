@@ -1,25 +1,31 @@
-<img align="right" height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmhjazU4cXJ0bTFjNncxbjVidG5xOHBrYXdqcm9kZG5vY2hkOTZweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SwImQhtiNA7io/giphy.gif" />
-<h1>Oi, você está olhando para o repositório dos projetos de uma estudante de ADS em construção</h1> 
-<h4> Minha lista de interesses inclui:</h4>
+<h1>Oii! eu sou a Bárbara Luersen 👋</h1> 
+<div class="topicos">
+  <h3>Sobre mim</h3>
+  <h4>📚💻 Estudante de Análise e Desenvolvimento de Sistemas</h4>
+  <h4>🤓🤝 Me contate em: <a href="www.linkedin.com/in/barbaraluersen">LinkedIn</a></h4>
+</div>
 
-- Front-end
+<div class="tecnologiasEmDesenvolvimento">
+  <h3>Me desenvolvendo em:</h3>
+  <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="SpringBoot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="" src="">
+  <img align="center" alt="" src="">
+  <img align="center" alt="" src="">
+  <img align="center" alt="" src="">
+  <img align="center" alt="" src="">
+</div>
 
-- Cibersegurança
-  
-- Planejamento e organização
-  
-- Finanças
-  
-- Moda
 
-Dentre outros que ainda estou descobrindo
-
-<h4>Em desenvolvimento:</h4>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp; 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp; 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)&nbsp; ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp; 
-![ADOBE ILLUSTRATOR](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)&nbsp; 
-![ADOBE XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)&nbsp; 
-![ADOBE INDESIGN](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)&nbsp; 
-![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
+<div class="dadosDoGit">
+  <a href="https://beacons.ai/barbaraLuersen">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaraLuersen&layout=compact&langs_count=16&theme=github_dark"/>
+</div>
