@@ -8,7 +8,7 @@
 <div class="tecnologiasEmDesenvolvimento">
   <h3>Me desenvolvendo em:</h3>
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -24,8 +24,6 @@
   <img align="center" alt="" src="">
 </div>
 
-
 <div class="dadosDoGit">
-  <a href="https://beacons.ai/barbaraLuersen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaraLuersen&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
