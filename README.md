@@ -1,8 +1,9 @@
 <h1>Oii! eu sou a Bárbara Luersen 👋</h1> 
 <div class="topicos">
   <h3>Sobre mim</h3>
-  <h4>📚💻 Estudante de Análise e Desenvolvimento de Sistemas</h4>
-  <h4>🤓🤝 Me contate em: <a href="https://www.linkedin.com/in/barbaraluersen/">LinkedIn</a></h4>
+  <h4>💻 Tecnólogo em Análise e Desenvolvimento de Sistemas</h4>
+  <h4>👩‍🎓 Pós-graduação em Gestão de Pessoas e Negócios</h4>
+  <h4>🤝 Me contate em: <a href="https://www.linkedin.com/in/barbaraluersen/">LinkedIn</a></h4>
 </div>
 
 <div class="tecnologiasEmDesenvolvimento">
