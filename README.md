@@ -10,14 +10,16 @@
   <h2>Me desenvolvendo em:</h2>
   <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width: 50px; height: auto;" />
   <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="width: 50px; height: auto;"/>
+  <img alt="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="width: 50px; height: auto;" />
   <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 50px; height: auto;"/>
   <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="width: 50px; height: auto;"/>
-  <img alt="Java"  style="width: 50px; height: auto;">
-  <img alt="Angular"  style="width: 50px; height: auto;">
-  <img alt="Bootstrap"  style="width: 50px; height: auto;">
-  <img alt="SpringBoot"  style="width: 50px; height: auto;">
-  <img alt="MySQL" src="">
-  <img alt="Swift" src="">
+  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="width: 50px; height: auto;"/>
+  <img alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" style="width: 50px; height: auto;"/>
+  <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" style="width: 50px; height: auto;"/>
+  <img alt="SpringBoot" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" style="width: 50px; height: auto;"/>
+  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="width: 50px; height: auto;"/>
+  <img alt="Swift" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" style="width: 50px; height: auto;"/>
+          
   <img alt="" src="">
   <img alt="" src="">
   <img alt="" src="">
