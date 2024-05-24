@@ -8,20 +8,20 @@
 
 <div class="tecnologiasEmDesenvolvimento">
   <h2>Me desenvolvendo em:</h2>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width: 50px; height: auto;" />
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" alt="SpringBoot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="" src="">
-  <img align="center" alt="" src="">
-  <img align="center" alt="" src="">
-  <img align="center" alt="" src="">
-  <img align="center" alt="" src="">
+  <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width: 50px; height: auto;" />
+  <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="width: 50px; height: auto;"/>
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 50px; height: auto;"/>
+  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="width: 50px; height: auto;"/>
+  <img alt="Java"  style="width: 50px; height: auto;">
+  <img alt="Angular"  style="width: 50px; height: auto;">
+  <img alt="Bootstrap"  style="width: 50px; height: auto;">
+  <img alt="SpringBoot"  style="width: 50px; height: auto;">
+  <img alt="MySQL" src="">
+  <img alt="Swift" src="">
+  <img alt="" src="">
+  <img alt="" src="">
+  <img alt="" src="">
+  <img alt="" src="">
 </div>
 <br><br>
 <div class="dadosDoGit">
